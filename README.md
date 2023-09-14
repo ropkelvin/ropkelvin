@@ -20,7 +20,7 @@
       <p align="left">
 <a href="https://linkedin.com/in/ropkelvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ropkelvin" height="30" width="40" /></a>
 <a href="https://twitter.com/roptech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roptech" height="30" width="40" /></a>
-<a href="https://fb.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajiboye" height="30" width="40" /></a>
+<a href="https://fb.com/roptech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roptech" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1150764147915640892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="roptech" height="30" width="40" /></a>
       </p>
       <h3 align="left">Languages and Tools:</h3>
