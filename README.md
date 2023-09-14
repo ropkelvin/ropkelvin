@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rop Kelvin</h1>
-<3 align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+dedicated+Kenyan+software+Engineer.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </h3>
 
