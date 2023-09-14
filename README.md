@@ -1,7 +1,7 @@
-<!-- <img alt="github" width="784" height="325" src="https://github.com/Adeleye080/Adeleye080/blob/master/Git.jpg" /> -->
+<!-- <img alt="github" width="784" height="325" src="https://github.com/ropkelvin/ropkelvin/blob/master/Git.jpg" /> -->
 <h1 align="center">Hi 👋, I'm Rop Kelvin</h1>
 <h3 align="center">I'm a dedicated Kenyan software Engineer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adeleye080&label=Profile%20views&color=0e75b6&style=flat" alt="Ajiboye" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ropkelvin&label=Profile%20views&color=0e75b6&style=flat" alt="ropkelvin" /> </p>
 <p align="center"> <img align= "center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"> </p>
 
 ---
@@ -19,7 +19,7 @@
       <h3 align="left">Connect with me:</h3>
       <p align="left">
 <a href="https://linkedin.com/in/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ropkelvin" height="30" width="40" /></a>
-<a href="https://twitter.com/roptech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Adeleye" height="30" width="40" /></a>
+<a href="https://twitter.com/roptech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roptech" height="30" width="40" /></a>
 <a href="https://fb.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajiboye" height="30" width="40" /></a>
 <a href="https://instagram.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajiboye" height="30" width="40" /></a>
       </p>
