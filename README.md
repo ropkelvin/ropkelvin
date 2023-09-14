@@ -42,6 +42,12 @@ ___
 
 ### Github Statistics
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ropkelvin&show_icons=true&locale=en&layout=compact" alt="ropkelvin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ropkelvin&show_icons=true&locale=en" alt="ropkelvin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ropkelvin&" alt="ropkelvin" /></p>
+
 <table>
   <tr>
     <td>
