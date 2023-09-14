@@ -1,4 +1,3 @@
-<img alt="github" width="784" height="325" src="https://github.com/ropkelvin/ropkelvin/blob/Git.jpg"
 <h1 align="center">Hi 👋, I'm Rop Kelvin</h1>
 <h3 align="center">I'm a dedicated Kenyan software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ropkelvin&label=Profile%20views&color=0e75b6&style=flat" alt="ropkelvin" /> </p>
