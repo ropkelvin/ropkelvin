@@ -48,6 +48,7 @@ ___
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ropkelvin&" alt="ropkelvin" /></p>
 
+<!--
 <table>
   <tr>
     <td>
@@ -60,6 +61,6 @@ ___
       <a href="https://github.com/ropkelvin"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropkelvin&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
-</table>
+</table> -->
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ropkelvin&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ropkelvin&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
