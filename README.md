@@ -63,4 +63,4 @@ ___
   </tr>
 </table> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ropkelvin&theme=dracula)](https://github.com/ropkelvin/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ropkelvin&theme=xcode)](https://github.com/ropkelvin/github-readme-activity-graph)
