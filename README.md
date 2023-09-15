@@ -5,12 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ropkelvin&label=Profile%20views&color=0e75b6&style=flat" alt="ropkelvin" /> </p>
 
-<p align="center"> <img align= "center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"> </p>
+<p align="center"> <img align= "center" alt="Coding" width="500" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"> </p>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
-
----<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+---
 
 <table>
   <tr>
