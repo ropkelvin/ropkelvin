@@ -12,7 +12,7 @@
   <tr>
     <td>
       <p> - 🔭 I’m currently working on a project - <b> <a href="https://github.com/ropkelvin"> To be updated </a></b></p>
-      <p> - 🌱 I’m currently learning <b> C PROGRAMMINMG </b></p>
+      <p> - 🌱 I’m currently learning <b> PYTHON PROGRAMMING </b></p>
       <p> - 💬 Ask me about <b> Anything in my Stack or Discord </b></p>
       <p> - 📫 How to reach me <b> <a href="mailto:kropchir@gmail.com"> Gmail </a></b></p>
       <p> - ⚡ Fun fact <b> I am an <a href="https://alxafrica.com/software-engineering">ALX Software Engineering</a> student. </b> - <em> Cohort 17 </em></p>
