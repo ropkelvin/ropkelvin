@@ -1,69 +1,132 @@
-<h1 align="center">Hi 👋, I'm Rop Kelvin</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+dedicated+software+Engineer.&font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=300" alt="Typing SVG">
-</h3>
+<h1 align="center">Hi 👋, I'm **Rop Kelvin** — RopSec</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ropkelvin&label=Profile%20views&color=0e75b6&style=flat" alt="ropkelvin" /> </p>
-<p align="center"> <img align= "center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=24&pause=1200&color=00ff7f&center=true&width=680&lines=Security+Researcher+%7C+Software+Engineer+%7C+Bug+Bounty+Enthusiast" alt="typing" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ropkelvin">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ropkelvin&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+  &nbsp;
+  <a href="https://ropsec.pages.dev">
+    <img alt="Website" src="https://img.shields.io/badge/website-ropsec.pages.dev-0e75b6?style=flat&logo=cloudflare" />
+  </a>
+  &nbsp;
+  <img alt="Location" src="https://img.shields.io/badge/location-Eldoret%2C%20Kenya-0e75b6?style=flat" />
+</p>
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <p> - 🔭 I’m currently working on a project - <b> <a href="https://github.com/ropkelvin"> To be updated </a></b></p>
-      <p> - 🌱 I’m currently learning <b> PYTHON PROGRAMMING </b></p>
-      <p> - 💬 Ask me about <b> Anything in my Stack or Discord </b></p>
-      <p> - 📫 How to reach me <b> <a href="mailto:kropchir@gmail.com"> Gmail </a></b></p>
-      <p> - ⚡ Fun fact <b> I am an <a href="https://alxafrica.com/software-engineering">ALX Software Engineering</a> student. </b> - <em> Cohort 17 </em></p>
-    </td>
-    <td>
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-<a href="https://linkedin.com/in/ropkelvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ropkelvin" height="30" width="40" /></a>
-<a href="https://twitter.com/roptech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roptech" height="30" width="40" /></a>
-<a href="https://fb.com/roptech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roptech" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1150764147915640892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="roptech" height="30" width="40" /></a>
-<a href="https://medium.com/@roptechke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roptechke" height="30" width="40" /></a>
-      </p>
-      <h3 align="left">Languages and Tools:</h3>
-      <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      </p>
-    </td>
-  </tr>
-</table>
+## About me
+I build secure software, hunt for vulnerabilities, and write about practical cybersecurity. I love blue-team controls and red-team thinking — focusing on defence-by-design and real-world exploit mitigation.
 
-___
+- 🔭 Currently: building security tooling & documenting pentest labs  
+- 🌱 Learning: advanced Python for automation & threat hunting  
+- 🧰 Interests: AppSec, Cloud Security, Incident Response, DFIR, CTFs, Bug Bounty  
+- ⚡ Fun fact: ALX Software Engineering student — always learning, always testing
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ropkelvin&show_icons=true&locale=en&layout=compact" alt="ropkelvin" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ropkelvin&show_icons=true&locale=en" alt="ropkelvin"/></p>
+## Quick links
+- 🔗 Portfolio / Blog: https://ropsec.pages.dev  
+- 🧾 Resume: *(link your resume here)*  
+- 📫 Email: [kropchir@gmail.com](mailto:kropchir@gmail.com)  
+- 💬 Discord: `ropkelvin#xxxx` (or link)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ropkelvin&" alt="ropkelvin" /></p> -->
+---
+
+## Featured / Pinned Projects
+> Short descriptions — replace with your actual projects and links.
+
+- **RopSec Lab** — hands-on exploit writeups, containerized labs, and tooling.  
+- **ropsec-tools** — small scripts for enumerations, payload generation, and automations.  
+- **roptech-blog** — posts about pentesting, defensive strategies, and incident response.
+
+---
+
+## What I do
+- Perform targeted application and network pentests  
+- Create reproducible labs and writeups for learning & teaching  
+- Automate recon, triage and scanning with Python & Bash  
+- Harden small-to-medium cloud deployments (IAM, logging, backups, MFA)  
+- Mentor juniors and contribute to community CTFs
+
+---
+
+## Cybersecurity stack / Skills
+<div align="center">
+
+**Offense / Recon**
+- `nmap`, `ffuf`, `Burp Suite`, `sqlmap`, `Metasploit`, `gobuster`
+
+**Defence / Detection**
+- `Elastic / ELK`, `Wazuh`, `Osquery`, `Suricata`, `SIEM` concepts
+
+**Programming / Automation**
+- `Python` • `Bash` • `Node.js` • `Go (learning)`
+
+**Cloud & Infra**
+- `AWS (IAM best practices)`, `Docker`, `Terraform (basics)`
+
+**Misc / Best Practices**
+- Password managers, MFA, secure CI/CD, backup & incident response planning
+
+</div>
+
+---
+
+## Blog / Writing (Markdown)
+I publish guides, lab writeups, and tool tutorials on my blog. Example posts:
+- *The Modern Cybersecurity Landscape: Threats, Tools, and Best Practices*  
+- *Practical Web App Recon: From Recon to RCE (lab walkthrough)*
+
+---
+
+## How I publish posts (workflow)
+1. Write locally in Markdown (dev branch)  
+2. Push to GitHub → Cloudflare Pages auto-deploy  
+3. Admin panel (protected) for quick drafts & previews
+
+---
+
+## Want to collaborate?
+I enjoy working on security tooling, capture-the-flag writeups, and open-source security automation. DM on LinkedIn or open an issue on a repo.
+
+---
+
+## Connect
+<p align="center">
+  <a href="https://linkedin.com/in/ropkelvin"><img src="https://img.shields.io/badge/LinkedIn-ropkelvin-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://twitter.com/roptech1"><img src="https://img.shields.io/badge/Twitter-@roptech1-1DA1F2?style=flat&logo=twitter" alt="Twitter"/></a>
+  &nbsp;
+  <a href="https://medium.com/@roptechke"><img src="https://img.shields.io/badge/Medium-@roptechke-000000?style=flat&logo=medium" alt="Medium"/></a>
+  &nbsp;
+  <a href="mailto:kropchir@gmail.com"><img src="https://img.shields.io/badge/Email-kropchir%40gmail.com-D14836?style=flat&logo=gmail" alt="Email"/></a>
+</p>
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ropkelvin&show_icons=true&theme=react&count_private=true" alt="Rop Kelvin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropkelvin&layout=compact&theme=react&count_private=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ropkelvin&theme=xcode)](https://github.com/ropkelvin)
+</p>
+
+---
+
+### PGP / Security (optional)
+If you'd like secure contact, say the word and I'll publish a PGP public key here.
+
+---
+
+<p align="center">
+  <sub>Built with 🔒 security focus • Always learning • © Rop Kelvin</sub>
+</p>
 
 
-### Github Statistics
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ropkelvin&show_icons=true&locale=en&layout=compact" alt="ropkelvin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ropkelvin&show_icons=true&locale=en" alt="ropkelvin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ropkelvin&" alt="ropkelvin" /></p>
-
-<!--
-<table>
-  <tr>
-    <td>
-       <a href="https://github.com/ropkelvin"><img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=ropkelvin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-       <a href="http://www.github.com/ropkelvin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ropkelvin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/ropkelvin"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropkelvin&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  </tr>
-</table> -->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ropkelvin&theme=xcode)](https://github.com/ropkelvin/github-readme-activity-graph)
