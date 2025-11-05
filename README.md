@@ -70,20 +70,24 @@ Insights into real-world attacks, security defense, and automation:
 ## 🔑 PGP / Secure Contact
 Want encrypted communication? Ask and I’ll publish my PGP public key here.
 
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ropkelvin&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=00ff7f&icon_color=00ff7f" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropkelvin&layout=compact&count_private=true&theme=react&hide_border=true&title_color=00ff7f" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ropkelvin&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</p>
+
 ---
 
 <p align="center">
   <sub>🔏 Built with security in mind • Crafted by RopSec © 2025</sub>
 </p>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ropkelvin&show_icons=true&theme=react&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropkelvin&layout=compact&theme=react&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ropkelvin&theme=github-compact"/>
-</p>
