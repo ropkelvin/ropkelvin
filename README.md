@@ -1,110 +1,69 @@
-<h1 align="center">👨‍💻 Rop Kelvin — <strong>RopSec</strong></h1>
-<h3 align="center">Defense Architect • Offensive Security Explorer • Code with Purpose</h3>
-
+<!-- ===== Dark Cyber Banner ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF7F&center=true&width=700&lines=Security+Researcher+%7C+Software+Engineer+%7C+Bug+Bounty+Hunter;Building+Secure+Systems+%26+Breaking+Insecure+Ones;Blue+Team+Mindset+with+Red+Team+Execution" alt="typing"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1117&height=120&section=header&text=RopSec%20%7C%20Cybersecurity%20&fontColor=00ff88&fontSize=40&fontAlignY=55&animation=fadeIn" />
 </p>
 
+<!-- ===== Terminal ASCII Animation ===== -->
 <p align="center">
-  <a href="https://github.com/ropkelvin"><img src="https://komarev.com/ghpvc/?username=ropkelvin&label=Profile+Views&color=00ff7f&style=flat"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=$+whoami;Rop+Kelvin+(RopSec);$+echo+'Offensive+Security+%26+Secure+Software';$+echo+'Bug+Bounty+%7C+Threat+Hunting+%7C+DFIR'" alt="terminal-animation"/>
+</p>
+
+---
+
+<h1 align="center">👨‍💻 Rop Kelvin — <strong>RopSec</strong></h1>
+<h3 align="center">Cybersecurity Engineer • Pentester • Secure Code Advocate</h3>
+
+<p align="center">
+  <a href="https://github.com/ropkelvin"><img src="https://komarev.com/ghpvc/?username=ropkelvin&label=Profile+Views&color=00ff88&style=flat"/></a>
   &nbsp;
-  <a href="https://ropsec.pages.dev"><img src="https://img.shields.io/badge/Website-ropsec.pages.dev-00ff7f?style=flat&logo=cloudflare"/></a>
+  <a href="https://ropsec.pages.dev"><img src="https://img.shields.io/badge/Website-ropsec.pages.dev-00ff88?style=flat&logo=cloudflare"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Eldoret%2C%20Kenya-00ff7f?style=flat"/>
+  <img src="https://img.shields.io/badge/Location-Eldoret%2C%20Kenya-00ff88?style=flat"/>
 </p>
 
 ---
 
 ## 🛡️ About Me
-I engineer systems that are **secure-by-design**, break things to make them stronger, and share knowledge to help others defend smarter.
+I secure systems by design, exploit vulnerabilities ethically, and share knowledge through labs, tools, and blogs.
 
-- 🔐 **Focus:** Application Security | Cloud Hardening | Exploit Development  
-- 🛠️ **Currently Building:** Security automation tools + real-world pentesting labs  
-- 📚 **Learning:** Advanced Python for DFIR, Threat Automation & Detection Engineering  
-- 🎯 **Passions:** Purple Teaming, Bug Bounty, Incident Response & Secure Architecture  
-- ⚡ **Fun fact:** I prefer logs over luck.
-
----
-
-## 🚀 Quick Access
-| 🔗 Resource | Link |
-|-------------|------|
-| 🌐 Portfolio / Blog | https://ropsec.pages.dev |
-| 📄 Resume | *(add link here)* |
-| 📧 Email | kropchir@gmail.com |
-| 💬 Discord | `ropkelvin#xxxx` |
+- 🔭 **Now Working On:** Security automation scripts & pentest environments  
+- 🌱 **Learning:** Advanced Python for Threat Hunting & DFIR  
+- 🛠 **Domains:** AppSec • Cloud Security • Incident Response • Bug Bounty  
+- ⚡ **Mindset:** Logs over luck. Defense over drama.
 
 ---
 
 ## 🔍 Featured Projects
 | Project | Description |
 |---------|-------------|
-| **RopSec Lab** | Modular exploit labs, writeups, and threat emulation scenarios. |
-| **ropsec-tools** | Recon automation, payload helpers, OSINT scripts & vulnerability scanners. |
-| **roptech-blog** | Guides on pentesting, defensive engineering, DFIR, and cloud security. |
+| **RopSec Lab** | Exploit writeups, container-based labs, and adversary simulations. |
+| **ropsec-tools** | Custom recon scripts, payload generators, automation for bug bounty. |
+| **roptech-blog** | Deep dives on pentesting, defense strategies, & DFIR workflows. |
 
 ---
 
-## 🛠️ What I Do
-✔ Web & Network Penetration Testing  
-✔ Threat Modelling & Secure Architecture Review  
-✔ Build & Containerize Cyber Labs for Training  
-✔ Automate Recon, Reporting & Red Team Ops  
-✔ Configure Detection Pipelines (Wazuh, ELK, Suricata)  
-✔ Secure Cloud Infrastructure (IAM, Secrets, Logging, Backup)  
+## 💻 Cybersecurity Tech Stack
+
+**🔴 Offensive Tools:**  
+`nmap` • `Burp Suite` • `sqlmap` • `ffuf` • `gobuster` • `Metasploit`
+
+**🔵 Defensive & Monitoring:**  
+`Wazuh` • `Elastic/ELK` • `Suricata` • `Sysmon` • `Sigma Rules`
+
+**⚙ Automation & Code:**  
+`Python` • `Bash` • `Go (learning)` • `Node.js`  
+
+**☁ Cloud & Infra:**  
+`AWS IAM Security` • `Docker` • `Linux Hardening` • `Terraform (basics)`
 
 ---
 
-## 🧩 Cybersecurity Stack
+## ✍️ Blog & Writing
+Insights into real-world attacks, security defense, and automation:
 
-<div align="center">
-
-### 🗡 Offensive Security
-`nmap` • `Burp Suite` • `ffuf` • `gobuster` • `Metasploit` • `sqlmap`
-
-### 🛡 Defensive Engineering
-`Wazuh` • `ELK` • `Osquery` • `Suricata` • `Sysmon` • `Sigma Rules`
-
-### ⚙ Automation & Code
-`Python` • `Bash` • `Node.js` • `PowerShell` • `Go (learning)`
-
-### ☁ Cloud & Infrastructure
-`AWS IAM + Security` • `Docker` • `Terraform (basics)` • `Linux Hardening`  
-
-### ✅ Practices & Mindset
-Threat Modelling • Secure CI/CD • MFA Everywhere • Incident Readiness
-
-</div>
-
----
-
-## ✍️ Writing & Research
-I write about real attacks, mitigations, and how to defend smarter.  
-Popular posts:
-- 🛠 *From Recon to RCE — Practical Web Exploitation*
-- 🧱 *Defense-in-Depth: Building Resilient Cloud Systems*
-- ⚔️ *Red vs Blue: Threat Hunting Strategies with Python & ELK*
-
----
-
-## 📬 Let’s Collaborate
-I’m open to:
-- 🔹 Open-source security tools & automation  
-- 🔹 Pentest report writeups & CTF collabs  
-- 🔹 DFIR scripting, log analysis & security research  
-> Feel free to DM on LinkedIn or open an Issue/PR.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ropkelvin&show_icons=true&theme=react&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropkelvin&layout=compact&theme=react&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ropkelvin&theme=github-compact"/>
-</p>
+- ⚔️ *Web App Recon to RCE — Step-by-Step Exploit Path*  
+- 🛡 *Building Elastic + Wazuh SOC for Detection Engineering*  
+- 🕵️ *Python + Sigma for Automated Threat Hunting*
 
 ---
 
@@ -117,4 +76,14 @@ Want encrypted communication? Ask and I’ll publish my PGP public key here.
   <sub>🔏 Built with security in mind • Crafted by RopSec © 2025</sub>
 </p>
 
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ropkelvin&show_icons=true&theme=react&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropkelvin&layout=compact&theme=react&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ropkelvin&theme=github-compact"/>
+</p>
