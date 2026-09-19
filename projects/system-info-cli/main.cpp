@@ -3,15 +3,29 @@
 #include <iostream>
 #include <sstream>
 #include <string>
+#include <thread>
 #include <sys/utsname.h>
 
 namespace {
 
-std::string read_first_line(const std::string& path) {
-    std::ifstream file(path);
-    std::string line;
-    std::getline(file, line);
-    return line;
+std::string read_cpu_model() {
+    std::ifstream file("/proc/cpuinfo");
+    std::string key;
+    std::string value;
+
+    while (std::getline(file, value)) {
+        const auto separator = value.find(':');
+        if (separator == std::string::npos) {
+            continue;
+        }
+
+        key = value.substr(0, separator);
+        if (key.find("model name") != std::string::npos) {
+            return value.substr(separator + 1);
+        }
+    }
+
+    return "unavailable";
 }
 
 std::string format_uptime() {
@@ -77,9 +91,7 @@ int main() {
         std::cout << "Kernel information unavailable\n";
     }
 
-    const std::string cpu_model = read_first_line("/proc/cpuinfo");
-    std::cout << "CPU      : " << (cpu_model.empty() ? "unavailable" : cpu_model) << '\n';
-
+    std::cout << "CPU      :" << read_cpu_model() << '\n';
     std::cout << "CPUs     : " << std::thread::hardware_concurrency() << '\n';
     std::cout << "Memory   : " << memory_usage() << '\n';
     std::cout << "Uptime   : " << format_uptime() << '\n';
