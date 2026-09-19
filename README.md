@@ -122,13 +122,19 @@ A cloud-based adventure platform focused on 4x4 expeditions, memberships and adm
 
 **Status:** Active development • Private repository
 
+### ⚙️ Linux System Info CLI
+A small C++17 command-line utility that reads system information from Linux's `/proc` filesystem.
+
+It reports basic information such as CPU details, logical CPU count, memory usage and system uptime.
+
+**Focus:** C++ • Linux • systems programming
+
+→ [View the project](./projects/system-info-cli/)
+
 ### 🔐 RopSec
 My cybersecurity-focused identity and learning space.
 
 🌐 [ropsec.pages.dev](https://ropsec.pages.dev)
-
-### 🧪 Security & Infrastructure Labs
-Hands-on experimentation with Linux, cloud infrastructure, networking and security concepts.
 
 ---
 
