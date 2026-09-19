@@ -1,91 +1,81 @@
-<!-- ===== RopSec Profile ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1117&height=120&section=header&text=RopSec&fontColor=00ff88&fontSize=44&fontAlignY=55&animation=fadeIn" />
-</p>
+# RopSec
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=720&lines=Rop+Kelvin;Cloud+%7C+Linux+%7C+Security+%7C+Software;Building+and+learning+one+system+at+a+time" alt="terminal-style introduction" />
-</p>
+<div align="center">
 
-<h1 align="center">👨‍💻 Rop Kelvin</h1>
+### Rop Kelvin · Cloud · Linux · Security · Software
 
-<p align="center">
-  <strong>Computer Science Graduate • Cloud & Linux Enthusiast • Cybersecurity Learner</strong>
-</p>
+*Building practical systems, learning how they work, and making them better.*
 
-<p align="center">
-  <a href="https://github.com/ropkelvin">
-    <img src="https://img.shields.io/badge/GitHub-ropkelvin-0e1117?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://ropsec.pages.dev">
-    <img src="https://img.shields.io/badge/Website-RopSec-00ff88?style=flat&logo=cloudflare&logoColor=black" alt="Website"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Kenya-0e1117?style=flat" alt="Kenya"/>
-</p>
+<a href="https://github.com/ropkelvin"><img src="https://img.shields.io/badge/GitHub-ropkelvin-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://ropsec.pages.dev"><img src="https://img.shields.io/badge/RopSec-Website-111827?style=for-the-badge&logo=cloudflare&logoColor=00ff88"></a>
+<img src="https://img.shields.io/badge/Kenya-111827?style=for-the-badge&logo=googlemaps&logoColor=00ff88">
+
+</div>
+
+> **Build it. Break it. Understand it. Improve it.**
 
 ---
 
-## 👋 About Me
+## 👋 Who I Am
 
-I'm a Computer Science graduate interested in building practical software and infrastructure, with a strong focus on **Linux, cloud technologies, and cybersecurity**.
+I'm a **Computer Science graduate** with a practical interest in **cloud infrastructure, Linux, software development and cybersecurity**.
 
-I enjoy learning by building: setting up systems, deploying applications, troubleshooting infrastructure, and understanding how the pieces work underneath.
+I learn primarily by building real things — deploying applications, working with cloud services, troubleshooting systems, writing code, and digging into what happens underneath the abstractions.
 
-- 🔭 **Currently building:** Rewild 4x4 Adventures
-- ☁️ **Working with:** AWS, Linux, Git/GitHub, Docker and cloud infrastructure
-- 💻 **Learning:** C++ and deeper systems/programming concepts
-- 🛡️ **Security interests:** Linux security, cloud security, application security and ethical hacking
-- 🧰 **Approach:** Build it, break it, understand it, improve it
+I'm not trying to collect every technology badge. I'm focused on developing the ability to **understand systems and solve problems with them.**
 
----
+### Current direction
 
-## 🚀 What I'm Working On
-
-### Rewild 4x4 Adventures
-
-A real-world 4x4 adventure platform I'm building and deploying using modern cloud and software tooling.
-
-The project has given me hands-on experience with areas such as:
-
-- Application architecture
-- Authentication and user management
-- Admin workflows
-- Database-backed features
-- Cloud deployment
-- Custom domains and DNS
-- Git branching and deployment workflows
-
-> The source repository is currently private.
+- ☁️ **Cloud & infrastructure** — AWS, Linux, Docker, networking
+- ⚙️ **Systems & programming** — C++, Linux internals, command-line tooling
+- 🛡️ **Security** — cloud security, Linux security, application security
+- 🏕️ **Real-world software** — Rewild 4x4 Adventures
+- 🧪 **Learning style** — hands-on projects, experimentation and troubleshooting
 
 ---
 
-## 🧠 Current Focus
+## 🚀 Featured Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### ☁️ Cloud & Infrastructure
+### 🏕️ Rewild 4x4 Adventures
 
-- AWS
-- Linux
-- Docker
-- Terraform
-- DNS & networking
-- Git/GitHub
-- Deployment & troubleshooting
+A real-world platform I'm building for **4x4 expeditions, memberships and administration**.
+
+Working on the project has involved:
+
+- Cloud application architecture
+- Authentication & user management
+- Database-backed features
+- Admin workflows
+- AWS deployment
+- DNS & custom domains
+- Git branching and release workflows
+
+**Status:** Active development  
+**Repository:** Private
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🛡️ Security
+### ⚙️ Linux System Info CLI
 
-- Linux security
-- Cloud security
-- Web/application security
-- Reconnaissance & security testing
-- Security labs
-- Defensive security concepts
+A small **C++17 Linux utility** built to understand systems programming rather than hide it behind frameworks.
+
+Reads information from Linux interfaces such as:
+
+- `/proc/cpuinfo`
+- `/proc/meminfo`
+- `/proc/uptime`
+- `uname()`
+
+**Focus**
+
+`C++` · `Linux` · `Systems Programming`
+
+→ [Explore the project](./projects/system-info-cli/)
 
 </td>
 </tr>
@@ -93,71 +83,105 @@ The project has given me hands-on experience with areas such as:
 
 ---
 
-## 💻 Technologies
+## 🧭 What I'm Learning
 
-**Languages**
-
-`C++` • `Python` • `JavaScript/TypeScript` • `Bash`
-
-**Cloud & Infrastructure**
-
-`AWS` • `Docker` • `Terraform` • `Linux`
-
-**Development & Tools**
-
-`Git` • `GitHub` • `Node.js` • `Vite`
-
-**Security**
-
-`Nmap` • `Burp Suite` • `Wazuh` • `OWASP concepts`
-
-> This is a working stack, not a claim that I am an expert in every technology listed.
+| Area | Current Focus |
+|:---|:---|
+| **Programming** | C++ · Python · Bash |
+| **Operating Systems** | Linux · CLI · System internals |
+| **Cloud** | AWS · Cloud architecture · Deployment |
+| **Infrastructure** | Docker · Terraform · Networking |
+| **Security** | Linux security · Cloud security · AppSec |
+| **Engineering** | Git · Troubleshooting · Automation |
 
 ---
 
-## 📌 Projects
+## 🛠️ Working Toolkit
 
-### 🏕️ Rewild 4x4 Adventures
-A cloud-based adventure platform focused on 4x4 expeditions, memberships and administration.
+<div align="center">
 
-**Status:** Active development • Private repository
+**Languages**  
+`C++` · `Python` · `JavaScript/TypeScript` · `Bash`
 
-### ⚙️ Linux System Info CLI
-A small C++17 command-line utility that reads system information from Linux's `/proc` filesystem.
+**Cloud & Infrastructure**  
+`AWS` · `Docker` · `Terraform` · `Linux` · `DNS`
 
-It reports basic information such as CPU details, logical CPU count, memory usage and system uptime.
+**Development**  
+`Git` · `GitHub` · `Node.js` · `Vite`
 
-**Focus:** C++ • Linux • systems programming
+**Security**  
+`Nmap` · `Burp Suite` · `Wazuh` · `OWASP`
 
-→ [View the project](./projects/system-info-cli/)
+</div>
 
-### 🔐 RopSec
-My cybersecurity-focused identity and learning space.
-
-🌐 [ropsec.pages.dev](https://ropsec.pages.dev)
-
----
-
-## 🎯 What I'm Building Toward
-
-I'm working toward becoming a stronger **cloud, infrastructure and security-focused engineer**.
-
-My current learning path is centered around:
-
-`C++` → `Linux` → `Docker` → `AWS` → `Terraform` → `Kubernetes` → `Cloud Security`
-
-The goal is not just to collect technologies, but to understand how systems work and become capable of building, deploying, securing and troubleshooting them.
+> **Note:** This represents technologies I'm actively working with or learning — not a claim of expert-level proficiency in every item.
 
 ---
 
-## 📫 Contact
+## 🧠 How I Approach Technology
 
-🌐 **Website:** [ropsec.pages.dev](https://ropsec.pages.dev)
+```text
+        ┌──────────────┐
+        │    Learn     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    Build     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   Break /    │
+        │  Troubleshoot│
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   Understand │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   Improve    │
+        └──────────────┘
+```
 
-💻 **GitHub:** [github.com/ropkelvin](https://github.com/ropkelvin)
+I prefer **hands-on understanding over simply following tutorials**. If something breaks, that's usually where the interesting part starts.
 
 ---
 
-<p align="center">
-  <sub>Built with curiosity, Linux and too many terminal sessions. • © 2026 Rop Kelvin</sub>
-</p>
+## 🎯 The Road Ahead
+
+My longer-term direction is toward **cloud, infrastructure and security-focused engineering**.
+
+<div align="center">
+
+**C++** → **Linux** → **Docker** → **AWS** → **Terraform** → **Kubernetes** → **Cloud Security**
+
+</div>
+
+> **Understand the stack deeply enough to build it, deploy it, secure it and troubleshoot it.**
+
+---
+
+## 🔐 RopSec
+
+**RopSec** is my cybersecurity-focused identity and learning space.
+
+🌐 **[ropsec.pages.dev](https://ropsec.pages.dev)**
+
+---
+
+## 📫 Find Me
+
+<div align="center">
+
+<a href="https://github.com/ropkelvin">GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://ropsec.pages.dev">RopSec</a>
+
+<br><br>
+
+<sub>Computer Science · Linux · Cloud · Security · Systems</sub>
+
+<br>
+<sub>Built with curiosity, Linux and far too many terminal sessions.</sub>
+
+</div>
