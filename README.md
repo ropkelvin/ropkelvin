@@ -1,82 +1,157 @@
-<!-- ===== Dark Cyber Banner ===== -->
+<!-- ===== RopSec Profile ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1117&height=120&section=header&text=RopSec%20%7C%20Cybersecurity%20&fontColor=00ff88&fontSize=40&fontAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1117&height=120&section=header&text=RopSec&fontColor=00ff88&fontSize=44&fontAlignY=55&animation=fadeIn" />
 </p>
 
-<!-- ===== Terminal ASCII Animation ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=$+whoami;Rop+Kelvin+(RopSec);$+echo+'Offensive+Security+%26+Secure+Software';$+echo+'Bug+Bounty+%7C+Threat+Hunting+%7C+DFIR'" alt="terminal-animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=720&lines=Rop+Kelvin;Cloud+%7C+Linux+%7C+Security+%7C+Software;Building+and+learning+one+system+at+a+time" alt="terminal-style introduction" />
+</p>
+
+<h1 align="center">👨‍💻 Rop Kelvin</h1>
+
+<p align="center">
+  <strong>Computer Science Graduate • Cloud & Linux Enthusiast • Cybersecurity Learner</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ropkelvin">
+    <img src="https://img.shields.io/badge/GitHub-ropkelvin-0e1117?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://ropsec.pages.dev">
+    <img src="https://img.shields.io/badge/Website-RopSec-00ff88?style=flat&logo=cloudflare&logoColor=black" alt="Website"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Kenya-0e1117?style=flat" alt="Kenya"/>
 </p>
 
 ---
 
-<h1 align="center">👨‍💻 Rop Kelvin — <strong>RopSec</strong></h1>
-<h3 align="center">Cybersecurity Engineer • Pentester • Secure Code Advocate</h3>
+## 👋 About Me
+
+I'm a Computer Science graduate interested in building practical software and infrastructure, with a strong focus on **Linux, cloud technologies, and cybersecurity**.
+
+I enjoy learning by building: setting up systems, deploying applications, troubleshooting infrastructure, and understanding how the pieces work underneath.
+
+- 🔭 **Currently building:** Rewild 4x4 Adventures
+- ☁️ **Working with:** AWS, Linux, Git/GitHub, Docker and cloud infrastructure
+- 💻 **Learning:** C++ and deeper systems/programming concepts
+- 🛡️ **Security interests:** Linux security, cloud security, application security and ethical hacking
+- 🧰 **Approach:** Build it, break it, understand it, improve it
+
+---
+
+## 🚀 What I'm Working On
+
+### Rewild 4x4 Adventures
+
+A real-world 4x4 adventure platform I'm building and deploying using modern cloud and software tooling.
+
+The project has given me hands-on experience with areas such as:
+
+- Application architecture
+- Authentication and user management
+- Admin workflows
+- Database-backed features
+- Cloud deployment
+- Custom domains and DNS
+- Git branching and deployment workflows
+
+> The source repository is currently private.
+
+---
+
+## 🧠 Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Infrastructure
+
+- AWS
+- Linux
+- Docker
+- Terraform
+- DNS & networking
+- Git/GitHub
+- Deployment & troubleshooting
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Security
+
+- Linux security
+- Cloud security
+- Web/application security
+- Reconnaissance & security testing
+- Security labs
+- Defensive security concepts
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Technologies
+
+**Languages**
+
+`C++` • `Python` • `JavaScript/TypeScript` • `Bash`
+
+**Cloud & Infrastructure**
+
+`AWS` • `Docker` • `Terraform` • `Linux`
+
+**Development & Tools**
+
+`Git` • `GitHub` • `Node.js` • `Vite`
+
+**Security**
+
+`Nmap` • `Burp Suite` • `Wazuh` • `OWASP concepts`
+
+> This is a working stack, not a claim that I am an expert in every technology listed.
+
+---
+
+## 📌 Projects
+
+### 🏕️ Rewild 4x4 Adventures
+A cloud-based adventure platform focused on 4x4 expeditions, memberships and administration.
+
+**Status:** Active development • Private repository
+
+### 🔐 RopSec
+My cybersecurity-focused identity and learning space.
+
+🌐 [ropsec.pages.dev](https://ropsec.pages.dev)
+
+### 🧪 Security & Infrastructure Labs
+Hands-on experimentation with Linux, cloud infrastructure, networking and security concepts.
+
+---
+
+## 🎯 What I'm Building Toward
+
+I'm working toward becoming a stronger **cloud, infrastructure and security-focused engineer**.
+
+My current learning path is centered around:
+
+`C++` → `Linux` → `Docker` → `AWS` → `Terraform` → `Kubernetes` → `Cloud Security`
+
+The goal is not just to collect technologies, but to understand how systems work and become capable of building, deploying, securing and troubleshooting them.
+
+---
+
+## 📫 Contact
+
+🌐 **Website:** [ropsec.pages.dev](https://ropsec.pages.dev)
+
+💻 **GitHub:** [github.com/ropkelvin](https://github.com/ropkelvin)
+
+---
 
 <p align="center">
-  <a href="https://github.com/ropkelvin"><img src="https://komarev.com/ghpvc/?username=ropkelvin&label=Profile+Views&color=00ff88&style=flat"/></a>
-  &nbsp;
-  <a href="https://ropsec.pages.dev"><img src="https://img.shields.io/badge/Website-ropsec.pages.dev-00ff88?style=flat&logo=cloudflare"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Eldoret%2C%20Kenya-00ff88?style=flat"/>
+  <sub>Built with curiosity, Linux and too many terminal sessions. • © 2026 Rop Kelvin</sub>
 </p>
-
----
-
-## 🛡️ About Me
-I secure systems by design, exploit vulnerabilities ethically, and share knowledge through labs, tools, and blogs.
-
-- 🔭 **Now Working On:** Security automation scripts & pentest environments  
-- 🌱 **Learning:** Advanced Python for Threat Hunting & DFIR  
-- 🛠 **Domains:** AppSec • Cloud Security • Incident Response • Bug Bounty  
-- ⚡ **Mindset:** Logs over luck. Defense over drama.
-
----
-
-## 🔍 Featured Projects
-| Project | Description |
-|---------|-------------|
-| **RopSec Lab** | Exploit writeups, container-based labs, and adversary simulations. |
-| **ropsec-tools** | Custom recon scripts, payload generators, automation for bug bounty. |
-| **roptech-blog** | Deep dives on pentesting, defense strategies, & DFIR workflows. |
-
----
-
-## 💻 Cybersecurity Tech Stack
-
-**🔴 Offensive Tools:**  
-`nmap` • `Burp Suite` • `sqlmap` • `ffuf` • `gobuster` • `Metasploit`
-
-**🔵 Defensive & Monitoring:**  
-`Wazuh` • `Elastic/ELK` • `Suricata` • `Sysmon` • `Sigma Rules`
-
-**⚙ Automation & Code:**  
-`Python` • `Bash` • `Go (learning)` • `Node.js`  
-
-**☁ Cloud & Infra:**  
-`AWS IAM Security` • `Docker` • `Linux Hardening` • `Terraform (basics)`
-
----
-
-## ✍️ Blog & Writing
-Insights into real-world attacks, security defense, and automation:
-
-- ⚔️ *Web App Recon to RCE — Step-by-Step Exploit Path*  
-- 🛡 *Building Elastic + Wazuh SOC for Detection Engineering*  
-- 🕵️ *Python + Sigma for Automated Threat Hunting*
-
----
-
-## 🔑 PGP / Secure Contact
-Want encrypted communication? Ask and I’ll publish my PGP public key here.
-
----
-
-<p align="center">
-  <sub>🔏 Built with security in mind • Crafted by RopSec © 2025</sub>
-</p>
-
-
-
-
-
